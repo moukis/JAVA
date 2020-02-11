@@ -1,7 +1,6 @@
 # Java
 You have here two different projects. Both are RPG. 
 
-This is an RPG I have done. 
 Step One : clone the repository
 Step Two : Get ride of the .class files ( rm *.class )
 Step Tree : Compile with javac *.java
